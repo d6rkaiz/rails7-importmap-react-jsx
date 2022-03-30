@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## reference
 
-Things you may want to cover:
+https://gist.github.com/rubys/82c7477609f561c4c5fdabb462db26d2
 
-* Ruby version
+## requirement
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+npm install esbuild
+```
